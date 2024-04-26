@@ -21,6 +21,6 @@ first commit
 2. Second Item
 3. Third Item
 
-[Link Text]()
+[Link Text](https://www.reddit.com/r/Maplestory/comments/1749537/who_is_ikun_kylesquirt_and_flaminghime/)
 
-![An image of a cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWeReihlmiSWJLKjO-TFr2e-2NGuE4IB29LLEG8PhREA&s)
+![An image of a cat](https://s2.coinmarketcap.com/static/img/coins/200x200/26357.png)
