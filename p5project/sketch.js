@@ -4,7 +4,7 @@ let numSegments = 50; //how many segments be creat
 let drawSegments = true
 
 function preload(){
-  img = loadImage("assets/Mona_Lisa.jpg");
+  img = loadImage("/assets/Mona_Lisa.jpg");
 }
 
 function setup() {

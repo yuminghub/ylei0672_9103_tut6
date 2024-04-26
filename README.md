@@ -23,7 +23,7 @@ first commit
 
 [Link Text](https://www.reddit.com/r/Maplestory/comments/1749537/who_is_ikun_kylesquirt_and_flaminghime/)
 
-![An image of a ikun](/p5roject/assets/Mona_Lisa.jpg)
+![An image of a ikun](/p5project/assets/Mona_Lisa.jpg)
 
 
 
