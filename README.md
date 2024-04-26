@@ -23,4 +23,14 @@ first commit
 
 [Link Text](https://www.reddit.com/r/Maplestory/comments/1749537/who_is_ikun_kylesquirt_and_flaminghime/)
 
-![An image of a cat](https://s2.coinmarketcap.com/static/img/coins/200x200/26357.png)
+![An image of a ikun](https://s2.coinmarketcap.com/static/img/coins/200x200/26357.png)
+
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+```js
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
+
+> This is a blockquote.
